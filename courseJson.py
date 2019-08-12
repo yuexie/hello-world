@@ -34,5 +34,9 @@ print(contentJson)
 
 url = 'http://jinxuliang.com/openservice/api/courseservice/course/54004d84137e45731c99035b/description?needTxt=true'
 
+#test print
+print(url)
+
+
 
 
